@@ -1,1 +1,1 @@
-This is simple web application that is built with Ruby on Rails Framework.
+This is blog simple web application that is built with Ruby on Rails Framework.
